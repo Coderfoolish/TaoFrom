@@ -56,6 +56,9 @@ function showSignUp(){
     document.getElementById('signin-form').style.display = 'none';
     document.getElementById('signup-form').style.display = 'block';
 }
+function namefirst(){
+    
+}
 function showLogin(){
 document.getElementById('signup-form').style.display = 'none';
 document.getElementById('signin-form').style.display = 'block';
